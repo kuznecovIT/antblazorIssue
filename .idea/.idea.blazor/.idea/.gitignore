@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.blazor.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\Владислав\RiderProjects\blazor\.idea\.idea.blazor\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
